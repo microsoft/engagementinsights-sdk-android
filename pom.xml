@@ -6,5 +6,5 @@
    <modelVersion>4.0.0</modelVersion>
    <groupId>com.microsoft.engagementinsights</groupId>
    <artifactId>eiandroidsdk-debug</artifactId>
-   <version>1.0</version>
+   <version>0.0.2</version>
 </project>
