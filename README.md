@@ -14,4 +14,4 @@ Log custom events and build your own reports for richer insights on how your mob
 [Getting started with the Android SDK](https://docs.microsoft.com/en-us/dynamics365/customer-insights/engagement-insights/get-started-android)
 
 ## Sample app
-https://docs.microsoft.com/en-us/dynamics365/customer-insights/engagement-insights/androidsdk-sample
+[Run the Android SDK Sample](https://docs.microsoft.com/en-us/dynamics365/customer-insights/engagement-insights/androidsdk-sample)
